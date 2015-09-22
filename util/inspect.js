@@ -12,3 +12,8 @@ function Person() {
 var obj = new Person();
 console.log(util.inspect(obj));
 console.log(util.inspect(obj, true));
+
+// true
+console.log(util.isDate(new Date()));
+//false
+console.log(util.isDate(Date()));

@@ -1,0 +1,14 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "HapLeo's node test",
+  "main": "base/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
